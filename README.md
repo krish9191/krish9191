@@ -1,7 +1,7 @@
 - 👋 Hi,
 - 👀 I’m interested in Python 
 - 🌱 I’m currently learning Flask  
-- 💞️ I’m looking for job as junior developer ...
+- 💞️ I’m looking for job as junior backend developer ...
 
 <!---
 krish9191/krish9191 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
