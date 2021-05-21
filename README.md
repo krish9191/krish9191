@@ -1,6 +1,6 @@
 - 👋 Hi,
-- 👀 I’m interested in Python 
-- 🌱 I’m currently learning Flask  
+- 👀 I’m interested in Python, Flask-RESTful 
+- 🌱 I’m currently learning Docker
 - 💞️ I’m looking for job as junior backend developer ...
 
 <!---
