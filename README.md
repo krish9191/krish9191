@@ -1,7 +1,7 @@
-- 👋 Hi,
-- 👀 I’m interested in Python, Flask-RESTful 
-- 🌱 I’m currently learning Docker
-- 💞️ I’m looking for job as junior backend developer ...
+- 👋 Hi there,
+- 👀 I’m interested in Backend and DevOps
+- 🌱 I’m currently working with Cloud Environment like AWS, Azure and GCP
+
 
 <!---
 krish9191/krish9191 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
