@@ -1,6 +1,6 @@
 - 👋 Hi there,
 - 👀 I’m interested in Backend development and DevOps
-- 🌱 I’m currently working in DevOps 
+
 
 
 <!---
